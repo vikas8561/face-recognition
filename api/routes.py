@@ -104,8 +104,9 @@ def try_on():
         result = tryon_service.try_on(person_path, full_garment_path, dress_id)
 
         if result["success"]:
-            # Convert file path to URL
-            result_url = "/" + result["result_path"].replace("\\", "/")
+            # Convert file path to web URL
+            filename = os.path.basename(result["result_path"])
+            result_url = f"/static/results/{filename}"
             return jsonify(
                 {
                     "success": True,
