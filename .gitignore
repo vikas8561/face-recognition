@@ -1,0 +1,13 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# App data (ephemeral on deploy)
+cache/
+static/uploads/
+static/results/

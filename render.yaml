@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: face-recognition
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:create_app() --bind 0.0.0.0:$PORT --timeout 120 --workers 2
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.11"
+      - key: HF_SPACE_URL
+        value: felixrosberg/face-swap
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: MAX_UPLOAD_SIZE_MB
+        value: "10"
+      - key: CACHE_DIR
+        value: /tmp/cache

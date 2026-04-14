@@ -1,0 +1,250 @@
+{
+  "states": [
+    {
+      "id": "himachal_pradesh",
+      "name": "Himachal Pradesh",
+      "region": "north",
+      "capital": "Shimla",
+      "map_position": {
+        "x": 31.1,
+        "y": 77.2
+      },
+      "color": "#2E7D32",
+      "tagline": "Land of the Gods",
+      "dresses": [
+        {
+          "id": "hp_boys_1",
+          "name": "Himachali Topi & Kurta",
+          "gender": "boys",
+          "description": "The iconic Himachali men's traditional attire featuring the distinctive Himachali Topi (cap) adorned with vibrant patterns, paired with a handwoven woolen kurta. A symbol of pride and identity in the hill communities.",
+          "cultural_significance": "The Himachali cap (Topi) is more than headwear — it represents the wearer's region, community, and status. Worn with pride during festivals like Kullu Dussehra.",
+          "fabric": "Handwoven Wool & Pashmina",
+          "colors": "Deep Maroon, Forest Green, Gold",
+          "occasion": "Festivals, Weddings, Daily Wear",
+          "fun_fact": "The Kullu cap's pattern can tell you exactly which valley in Himachal the wearer belongs to!",
+          "garment_image": "dresses/himachal_pradesh/himachal-boys.jpeg"
+        },
+        {
+          "id": "hp_boys_2",
+          "name": "Himachali Dhatu Ensemble",
+          "gender": "boys",
+          "description": "A traditionally styled ensemble featuring layered woolen garments with intricate embroidery, representing the mountain heritage of Himachal Pradesh. Includes the classic Pahadi shawl draped gracefully.",
+          "cultural_significance": "The layered garment style developed as a response to the harsh mountain climate, becoming an integral part of Himachali cultural identity over centuries.",
+          "fabric": "Handwoven Wool & Tweed",
+          "colors": "Earth tones, Brown, Olive Green",
+          "occasion": "Celebrations, Cultural Events",
+          "fun_fact": "Himachali weavers use a traditional loom called 'Khadi' that has been in use for over 500 years!",
+          "garment_image": "dresses/himachal_pradesh/himachal-boys2.jpeg"
+        },
+        {
+          "id": "hp_girls_1",
+          "name": "Himachali Dhaalu",
+          "gender": "girls",
+          "description": "A traditional flowing dress of Himachali women, made from handwoven wool. Features vibrant geometric patterns and is paired with intricate silver jewelry and a distinctive headscarf called 'Dhaatu'.",
+          "cultural_significance": "Worn during village festivals, weddings, and the famous Kullu Dussehra. Represents the rich textile heritage of the hill communities.",
+          "fabric": "Handwoven Wool & Pashmina",
+          "colors": "Deep Maroon, Forest Green, Gold",
+          "occasion": "Festivals, Weddings, Celebrations",
+          "fun_fact": "The Kullu shawl that accompanies this dress was granted a GI (Geographical Indication) tag, making it a protected heritage craft.",
+          "garment_image": "dresses/himachal_pradesh/himachal-girl.jpeg"
+        },
+        {
+          "id": "hp_girls_2",
+          "name": "Himachali Chamba Rumal",
+          "gender": "girls",
+          "description": "An elegant traditional outfit featuring the famous Chamba Rumal embroidery — miniature paintings recreated in thread. The flowing silhouette honors centuries of Pahadi artistic tradition.",
+          "cultural_significance": "Chamba Rumal embroidery style dates back to the Mughal era and depicts scenes from epics like Ramayana and Mahabharata.",
+          "fabric": "Cotton & Silk with Chamba embroidery",
+          "colors": "Crimson Red, Forest Green, Ivory",
+          "occasion": "Weddings, Festivals",
+          "fun_fact": "A single Chamba Rumal can take artisans up to 2 years to complete due to the intricate embroidery work!",
+          "garment_image": "dresses/himachal_pradesh/himachal-girl1.jpeg"
+        },
+        {
+          "id": "hp_girls_3",
+          "name": "Himachali Pattoo Outfit",
+          "gender": "girls",
+          "description": "The beautiful Pattoo — a handwoven rectangular shawl worn as a wraparound garment by Himachali women, paired with traditional jewelry. Each thread carries centuries of mountain artistry.",
+          "cultural_significance": "The Pattoo is traditionally woven by women during winter months, making it both a practical garment and a labor of love.",
+          "fabric": "Fine Pashmina & Angora Wool",
+          "colors": "Vibrant Multi-color geometric patterns",
+          "occasion": "Winter Festivals, Daily Traditional Wear",
+          "fun_fact": "The wool used in traditional Himachali garments comes from Gaddi sheep that graze at altitudes above 3,000 meters!",
+          "garment_image": "dresses/himachal_pradesh/himachal-girl2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "region": "north",
+      "capital": "Chandigarh",
+      "map_position": {
+        "x": 31.0,
+        "y": 75.8
+      },
+      "color": "#FF6F00",
+      "tagline": "Land of Five Rivers",
+      "dresses": [
+        {
+          "id": "pb_boys_1",
+          "name": "Punjabi Kurta Pajama & Pagri",
+          "gender": "boys",
+          "description": "The classic Punjabi men's outfit featuring a loose-fitting Kurta (tunic), Pajama (trousers), and the magnificent Pagri (turban) tied with pride — the ultimate symbol of Punjabi identity.",
+          "cultural_significance": "The Punjabi turban (Pagri/Dastar) represents honor, self-respect, courage, and piety in Sikh and Punjabi culture.",
+          "fabric": "Cotton, Silk",
+          "colors": "White, Cream, Royal Blue, Saffron",
+          "occasion": "Daily wear, Festivals, Weddings",
+          "fun_fact": "A traditional Punjabi turban cloth can be up to 6 meters long and comes in every color imaginable — each color has its own significance.",
+          "garment_image": "dresses/punjab/punjabi-boy.jpeg"
+        },
+        {
+          "id": "pb_boys_2",
+          "name": "Punjabi Sherwani",
+          "gender": "boys",
+          "description": "A regal Punjabi Sherwani — the epitome of masculine grace in Punjabi wedding culture. Rich embroidery, intricate button work, and a commanding silhouette define this iconic outfit.",
+          "cultural_significance": "The Sherwani became the go-to groom's outfit in Punjab, blending Mughal elegance with Punjabi flamboyance.",
+          "fabric": "Silk, Velvet with Zari embroidery",
+          "colors": "Gold, Ivory, Maroon",
+          "occasion": "Weddings, Formal Events",
+          "fun_fact": "A Punjabi wedding Sherwani can have over 50,000 individual hand-stitched beads!",
+          "garment_image": "dresses/punjab/punjabi-boy1.jpeg"
+        },
+        {
+          "id": "pb_girls_1",
+          "name": "Phulkari Salwar Kameez",
+          "gender": "girls",
+          "description": "The quintessential Punjabi women's outfit — a flowing Kameez (tunic) paired with Salwar (trousers) and a vibrant Phulkari dupatta embroidered with floral motifs.",
+          "cultural_significance": "Phulkari literally means 'flower work'. This embroidery tradition dates back centuries and is passed down through generations of Punjabi women.",
+          "fabric": "Cotton, Silk with Phulkari embroidery",
+          "colors": "Hot Pink, Orange, Yellow, Red",
+          "occasion": "Festivals, Weddings, Lohri, Baisakhi",
+          "fun_fact": "A single Phulkari dupatta can take 2-3 months to embroider by hand, with each stitch telling a story of Punjabi heritage.",
+          "garment_image": "dresses/punjab/punjabi-girl.jpeg"
+        },
+        {
+          "id": "pb_girls_2",
+          "name": "Punjabi Patiala Suit",
+          "gender": "girls",
+          "description": "The iconic Patiala Salwar — with its dramatic pleated volume paired with a short Kameez and flowing dupatta. Named after the royal city of Patiala, this is Punjabi fashion at its finest.",
+          "cultural_significance": "The Patiala Salwar was inspired by the royal court of Patiala and became a worldwide fashion phenomenon representing Punjabi style.",
+          "fabric": "Silk, Georgette with thread work",
+          "colors": "Vibrant Multi-colors, Red, Teal",
+          "occasion": "Festivals, Celebrations, College Events",
+          "fun_fact": "The Patiala Salwar uses almost twice the fabric of a regular salwar due to its signature voluminous pleats!",
+          "garment_image": "dresses/punjab/punjabi-girl1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "region": "north",
+      "capital": "Jaipur",
+      "map_position": {
+        "x": 26.9,
+        "y": 75.8
+      },
+      "color": "#D84315",
+      "tagline": "Land of Kings",
+      "dresses": [
+        {
+          "id": "rj_boys_1",
+          "name": "Rajasthani Angarkha & Pagari",
+          "gender": "boys",
+          "description": "The majestic Rajasthani Angarkha — an overlapping front-tied tunic paired with the iconic Rajasthani Pagari (turban) in vivid colors. A look fit for the royal courts of Rajputana.",
+          "cultural_significance": "The Rajasthani turban's color, size, and style indicate the wearer's caste, region, and occasion. It's a walking cultural encyclopedia.",
+          "fabric": "Cotton, Silk with Bandhani tie-dye",
+          "colors": "Fiery Red, Saffron, Royal Blue",
+          "occasion": "Weddings, Festivals, Royal Events",
+          "fun_fact": "The Rajasthani Pagari can be up to 9 meters long — some festival turbans weigh over 15 kg!",
+          "garment_image": "dresses/rajasthan/rajasthani-boys.jpeg"
+        },
+        {
+          "id": "rj_boys_2",
+          "name": "Rajasthani Dhoti Kurta",
+          "gender": "boys",
+          "description": "Traditional Rajasthani men's Dhoti Kurta with intricate mirror work and block printing. The outfit represents the vibrant desert culture with its rich colors and detailed craftsmanship.",
+          "cultural_significance": "Block printing on these garments uses techniques from the royal ateliers of Jaipur and Jodhpur, unchanged for 500 years.",
+          "fabric": "Cotton with block print & mirror work",
+          "colors": "Mustard Yellow, Deep Red, Indigo",
+          "occasion": "Desert Festivals, Pushkar Mela",
+          "fun_fact": "Rajasthani block printing artisans carve wooden blocks with over 1,000 tiny details for a single pattern!",
+          "garment_image": "dresses/rajasthan/rajasthani-boys2.jpeg"
+        },
+        {
+          "id": "rj_boys_3",
+          "name": "Rajasthani Jodhpuri Suit",
+          "gender": "boys",
+          "description": "The legendary Jodhpuri suit (Bandhgala) — born in the princely state of Jodhpur and now a global fashion icon. Tailored to perfection with a closed-neck jacket and fitted trousers.",
+          "cultural_significance": "Created for Maharaja Pratap Singh of Jodhpur, this suit became a favorite of British royalty and eventually a global menswear staple.",
+          "fabric": "Premium Silk & Cotton blend",
+          "colors": "Midnight Blue, Black, Cream",
+          "occasion": "Formal Events, Weddings",
+          "fun_fact": "The Jodhpuri suit inspired the riding breeches called 'jodhpurs' — worn by equestrians worldwide!",
+          "garment_image": "dresses/rajasthan/rajasthani-boys3.jpeg"
+        },
+        {
+          "id": "rj_boys_4",
+          "name": "Rajasthani Folk Attire",
+          "gender": "boys",
+          "description": "Authentic Rajasthani folk attire featuring traditional embroidery, vibrant Rajwadi patterns, and the classic desert warrior aesthetic. A symphony of color against golden sands.",
+          "cultural_significance": "Folk attire varies dramatically across Rajasthan's 33 districts, each carrying the identity of its community.",
+          "fabric": "Handloom Cotton with Aari embroidery",
+          "colors": "Multi-color with mirror accents",
+          "occasion": "Folk Festivals, Cultural Events",
+          "fun_fact": "Rajasthan's textile market is worth over ₹30,000 crore — the largest traditional textile economy in India!",
+          "garment_image": "dresses/rajasthan/rajasthani-boys4.jpeg"
+        },
+        {
+          "id": "rj_girls_1",
+          "name": "Ghagra Choli & Odhni",
+          "gender": "girls",
+          "description": "A stunning three-piece outfit consisting of a flared Ghagra (skirt) with mirror work, a fitted Choli (blouse), and a flowing Odhni (veil) with Bandhani tie-dye patterns.",
+          "cultural_significance": "This outfit embodies the vibrant spirit of Rajasthan. The mirror work (Shisha) is believed to ward off evil spirits, while Bandhani represents celebration.",
+          "fabric": "Cotton, Silk with Mirror work & Bandhani",
+          "colors": "Fiery Red, Royal Blue, Mustard Yellow, Hot Pink",
+          "occasion": "Gangaur, Teej, Weddings",
+          "fun_fact": "A traditional Rajasthani Ghagra can have up to 15 meters of fabric in its flare, creating a magnificent swirl when the wearer dances.",
+          "garment_image": "dresses/rajasthan/rajasthani-girl.jpeg"
+        },
+        {
+          "id": "rj_girls_2",
+          "name": "Rajasthani Bandhani Saree",
+          "gender": "girls",
+          "description": "The iconic Rajasthani Bandhani (tie-dye) saree — a canvas of thousands of tiny knots creating mesmerizing patterns. Each dot is hand-tied, making every saree a unique masterpiece.",
+          "cultural_significance": "Bandhani is considered auspicious and is an essential part of a Rajasthani bride's trousseau. The art is over 5,000 years old.",
+          "fabric": "Pure Silk with Bandhani tie-dye",
+          "colors": "Red, Yellow with white dot patterns",
+          "occasion": "Weddings, Festivals, Auspicious Occasions",
+          "fun_fact": "A master Bandhani artist can tie up to 10,000 knots in a single day — that's one knot every 3 seconds!",
+          "garment_image": "dresses/rajasthan/rajasthani-girls1.jpeg"
+        },
+        {
+          "id": "rj_girls_3",
+          "name": "Rajasthani Leheriya Outfit",
+          "gender": "girls",
+          "description": "The vibrant Leheriya (wave) print — a tie-dye technique producing colorful diagonal striped patterns that ripple like desert waves. A monsoon festival favorite.",
+          "cultural_significance": "Leheriya is traditionally worn during Teej and the monsoon season. The wave pattern symbolizes the joy of rains in arid Rajasthan.",
+          "fabric": "Chiffon & Georgette with Leheriya dye",
+          "colors": "Multi-color waves — Pink, Green, Yellow, Orange",
+          "occasion": "Teej, Monsoon Festival, Gangaur",
+          "fun_fact": "Creating a Leheriya print requires rolling the fabric diagonally and tying it at intervals — a technique unchanged since the 18th century!",
+          "garment_image": "dresses/rajasthan/rajasthani-girls2.jpeg"
+        },
+        {
+          "id": "rj_girls_4",
+          "name": "Rajasthani Gota Patti Ensemble",
+          "gender": "girls",
+          "description": "A regal ensemble adorned with Gota Patti — golden ribbon appliqué work that catches light like desert stars. Rajasthani royalty at its sparkling finest.",
+          "cultural_significance": "Gota Patti originated in the royal courts of Rajputana. The golden work represents prosperity and is considered essential for bridal attire.",
+          "fabric": "Silk with Gota Patti & Zari work",
+          "colors": "Deep Pink, Red, Gold accents",
+          "occasion": "Weddings, Bridal Wear, Royal Events",
+          "fun_fact": "Authentic Gota Patti uses real gold-plated copper ribbons — a single bridal outfit can use over 200 meters of Gota!",
+          "garment_image": "dresses/rajasthan/rajasthani-girls3.jpeg"
+        }
+      ]
+    }
+  ]
+}
