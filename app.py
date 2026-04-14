@@ -41,7 +41,7 @@ def create_app():
     # Serve result images
     @app.route("/static/results/<path:filename>")
     def serve_result(filename):
-        return send_from_directory("static/results", filename)
+        return send_from_directory(app.config["RESULTS_DIR"], filename)
 
     return app
 
